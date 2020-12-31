@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PAM2.0.iml" filepath="$PROJECT_DIR$/.idea/PAM2.0.iml" />
+      <module fileurl="file://D:/koal/.idea/koal.iml" filepath="D:/koal/.idea/koal.iml" />
     </modules>
   </component>
 </project>

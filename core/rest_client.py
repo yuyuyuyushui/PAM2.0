@@ -12,6 +12,7 @@ class RestClient():
         urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
         if token:
             self.session.headers['token'] = token
+            self.session.headers["tenantToken"] = token
         self.api_url_path = api_url_path
         self.url = None
     @response
